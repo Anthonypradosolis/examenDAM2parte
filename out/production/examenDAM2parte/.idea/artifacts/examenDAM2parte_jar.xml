@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="examenDAM2parte:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/examenDAM2parte_jar</output-path>
+    <root id="archive" name="examenDAM2parte.jar">
+      <element id="module-output" name="examenDAM2parte" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
